@@ -1,5 +1,5 @@
 {
-    "name": "chintansoni202.github.io",
+    "name": "ichintansoni.github.io",
     "version": "1.0.0",
     "description": "This is a static portfolio.",
     "main": "index.js",
@@ -9,12 +9,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/chintansoni202/chintansoni202.github.io.git"
+        "url": "git+https://github.com/ichintansoni/ichintansoni.github.io.git"
     },
     "author": "Chintan Soni",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/chintansoni202/chintansoni202.github.io/issues"
+        "url": "https://github.com/ichintansoni/ichintansoni.github.io/issues"
     },
     "devDependencies": {
         "css-loader": "^0.28.8",
