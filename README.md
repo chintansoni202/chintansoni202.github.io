@@ -1,2 +1,2 @@
-# chintansoni202.github.io
+# ichintansoni.github.io
 This is my personal website.
